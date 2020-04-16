@@ -1,0 +1,11 @@
+div{
+    background-color:yellow ;
+}
+
+#intro{
+    border: 2px;
+}
+
+div>p{
+    padding: 20px;
+}
